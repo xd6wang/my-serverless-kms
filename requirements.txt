@@ -1,0 +1,6 @@
+python-pkcs11
+backoff
+fastapi
+uvicorn[standard]
+pydantic
+boto3
